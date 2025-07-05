@@ -1,0 +1,1 @@
+from .game import TetrisGame  # noqa: F401
